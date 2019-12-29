@@ -1,0 +1,26 @@
+1. cd untuk pindah direktori
+2. date /t menampilkan tanggal sekarang tanpa perlu input tanggal baru. format mm-dd-yyyy
+3. cls untuk membuat tampilan command prompt bersih seperti saat pertama kali dibuka
+4. /? setelah suatu command untuk menampilkan penjelasan mengenai command tersebut
+5. echo [message] untuk menampilkan pesan ke layar
+6. ping google.com -t untuk melakukan ping ke google sampai diberhentikan. ctrl c untuk memberhentikan
+7. systeminfo untuk menampilkan detail komputer dan OS yang digunakan
+8. color untuk mengubah warna tampilan dan warna font command prompt
+9. title untuk mengubah judul command prompt
+10. ver untuk menampilkan versi windows yang digunakan
+11. chdir fungsinya sama seperti cd
+12. exit /b untuk menutup command prompt
+13. help untuk menampilkan command apa saja yang tersedia. jika ditulis help [command] akan menampilkan penjelasan dari [command] tersebut
+14. hostname menampilkan nama host dari komputer yang dipakai
+15. ipconfig /all menampilkan lengkap konfigurasi TCP/IP untuk semua adapter yang ada
+16. dir menampilkan semua folder / file yang berada di direktori yang sedang dibuka
+17. mkdir untuk membuat folder baru
+18. md sama seperti mkdir
+19. rmdir untuk menghapus suatu direktori
+20. rd sams seperti rmdir
+21. netstat untuk menampilkan koneksi TCP yang sedang aktif
+22. start untuk membuka command prompt baru
+23. tasklist untuk menampilkan semua proses yang sedang berjalan pada komputer
+24. timeout /t 10 untuk menunggu selama 10 detik sebelum bisa menjalankan command lagi
+25. time /t untuk menampilkan jam sekarang tanpa perlu input jam baru. format hh:mm:ss
+26. tree untuk menampilkan struktur direktori pada path yang sedang dibuka
