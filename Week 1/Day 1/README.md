@@ -9,7 +9,7 @@
 > Install Dart for Windows mudah, tinggal download disini https://dart.dev/get-dart kemudian tinggal next sampai selesai instalasi.
 
 ----
-## Step 3
+## 3.
 > Konfigurasi Dart & Flutter di Visual Studio Code bisa dicek disini https://flutter.dev/docs/get-started/editor?tab=vscode dan https://flutter.dev/docs/development/tools/vs-code .
 
 ----
